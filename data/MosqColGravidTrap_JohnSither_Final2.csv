@@ -1,0 +1,486 @@
+﻿Vial_no.,date set,date coll.,location,Infusion,genus,species,sex,gravid,parity,bloodfed,diff
+1,6/15/2015,6/17/2015,dev.cent.,grass,Ae.,japonicus,female,yes,,no,2
+2,6/15/2015,6/17/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+3,6/15/2015,6/17/2015,dev.cent.,grass,Cx.,restuans,female,yes,,no,2
+4,6/15/2015,6/17/2015,dev.cent.,grass,Ae.,japonicus,female,no,,no,2
+5,6/15/2015,6/17/2015,Church,oak,Ae.,triseriatus sl,female,no,,no,2
+6,6/15/2015,6/17/2015,Church,oak,Cx.,restuans,female,yes,,no,2
+7,6/15/2015,6/17/2015,Church,oak,Cx.,restuans,female,yes,,no,2
+8,6/15/2015,6/17/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+9,6/15/2015,6/17/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+10,6/15/2015,6/17/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+11,6/15/2015,6/17/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+12,6/15/2015,6/17/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+13,6/15/2015,6/17/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+14,6/15/2015,6/17/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+15,6/15/2015,6/17/2015,Church,grass,Ae.,triseriatus sl,female,no,,no,2
+16,6/15/2015,6/17/2015,Church,grass,Cx.,restuans,female,yes,,no,2
+17,6/15/2015,6/17/2015,Church,grass,Cx.,restuans,female,yes,,no,2
+18,6/15/2015,6/17/2015,Church,grass,Cx.,restuans,female,yes,,no,2
+19,6/15/2015,6/17/2015,HHS,oak,Cx.,restuans,female,yes,,no,2
+20,6/15/2015,6/17/2015,HHS,oak,Ae.,triseriatus sl,female,yes,,no,2
+21,6/15/2015,6/17/2015,HHS,oak,Ae.,triseriatus sl,female,yes,,no,2
+22,6/15/2015,6/17/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+23,6/15/2015,6/17/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+24,6/15/2015,6/17/2015,HHS,grass,Ae.,japonicus,female,yes,,no,2
+25,6/15/2015,6/17/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+26,6/15/2015,6/17/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+27,6/15/2015,6/17/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+28,6/17/2015,6/19/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+29,6/17/2015,6/19/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+30,6/17/2015,6/19/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+31,6/17/2015,6/19/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+32,6/17/2015,6/19/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+33,6/17/2015,6/19/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+34,6/17/2015,6/19/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+35,6/17/2015,6/19/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+36,6/17/2015,6/19/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+37,6/17/2015,6/19/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+38,6/17/2015,6/19/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+39,6/17/2015,6/19/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+40,6/17/2015,6/19/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+41,6/17/2015,6/19/2015,Church,oak,Ae.,triseriatus sl,female,no,,no,2
+42,6/17/2015,6/19/2015,Church,oak,Ae.,triseriatus sl,female,no,,no,2
+43,6/17/2015,6/19/2015,Church,oak,Ae.,triseriatus sl,female,yes,,no,2
+44,6/17/2015,6/19/2015,Church,oak,Cx.,restuans,female,no,,no,2
+45,6/17/2015,6/19/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+46,6/17/2015,6/19/2015,Church,oak,Ae.,triseriatus sl,female,no,,no,2
+47,6/17/2015,6/19/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+48,6/17/2015,6/19/2015,HHS,grass,Ae.,triseriatus sl,female,no,,no,2
+49,6/17/2015,6/19/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+50,6/17/2015,6/19/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+51,6/17/2015,6/19/2015,HHS,grass,Ae.,japonicus,female,yes,,no,2
+52,6/17/2015,6/19/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+53,6/17/2015,6/19/2015,dev.cent.,oak,Cx.,territans,female,yes,,no,2
+54,6/17/2015,6/19/2015,dev.cent.,oak,Cx.,restuans,female,no,,no,2
+55,6/17/2015,6/19/2015,dev.cent.,oak,Cx.,restuans,female,yes,,no,2
+56,6/17/2015,6/19/2015,dev.cent.,grass,Cx.,restuans,female,yes,,no,2
+57,6/17/2015,6/19/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+58,6/17/2015,6/19/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+59,6/17/2015,6/19/2015,dev.cent.,grass,Cx.,restuans,female,yes,,no,2
+60,6/22/2015,6/24/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+61,6/22/2015,6/24/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+62,6/22/2015,6/24/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+63,6/22/2015,6/24/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+64,6/22/2015,6/24/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+65,6/22/2015,6/24/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+66,6/22/2015,6/24/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+67,6/22/2015,6/24/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+68,6/22/2015,6/24/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+69,6/22/2015,6/24/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+70,6/22/2015,6/24/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+71,6/22/2015,6/24/2015,Church,grass,Ae.,albopictus,female,no,,no,2
+72,6/22/2015,6/24/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+73,6/22/2015,6/24/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+74,6/22/2015,6/24/2015,church,grass,Cx.,restuans,female,yes,,no,2
+75,6/22/2015,6/24/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+76,6/22/2015,6/24/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+77,6/22/2015,6/24/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+78,6/22/2015,6/24/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+79,6/22/2015,6/24/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+80,6/22/2015,6/24/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+81,6/22/2015,6/24/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+82,6/22/2015,6/24/2015,HHS,grass,Cx.,restuans,female,yes,,no,2
+83,6/22/2015,6/24/2015,Church,oak,Ae.,japonicus,female,no,,no,2
+84,6/22/2015,6/24/2015,Church,oak,Ae.,japonicus,female,no,,no,2
+85,6/22/2015,6/24/2015,Church,oak,Ae.,japonicus,female,no,,no,2
+86,6/22/2015,6/24/2015,Church,oak,Ae.,japonicus,female,no,,no,2
+87,6/22/2015,6/24/2015,Church,oak,Ae.,triseriatus sl,female,yes,,no,2
+88,6/22/2015,6/24/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+89,6/22/2015,6/24/2015,dev.cent.,grass,Ae.,japonicus,female,yes,,no,2
+90,6/22/2015,6/24/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+91,6/22/2015,6/24/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+92,6/22/2015,6/24/2015,dev.cent.,grass,Cx.,territans,female,yes,,no,2
+93,6/22/2015,6/24/2015,dev.cent.,oak,Ae.,triseriatus sl,female,yes,,no,2
+94,6/22/2015,6/24/2015,dev.cent.,oak,Ae.,triseriatus sl,female,yes,,no,2
+95,6/22/2015,6/24/2015,dev.cent.,oak,Cx.,restuans,female,yes,,no,2
+96,6/22/2015,6/24/2015,dev.cent.,oak,Cx.,territans,female,yes,,no,2
+97,6/22/2015,6/24/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+98,6/22/2015,6/24/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+99,6/22/2015,6/24/2015,HHS,oak,Ae.,triseriatus sl,female,yes,,no,2
+100,6/22/2015,6/24/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+101,6/24/2015,6/26/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+102,6/24/2015,6/26/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+103,6/24/2015,6/26/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+104,6/24/2015,6/26/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+105,6/24/2015,6/26/2015,HHS,oak,Ae.,japonicus,female,no,,no,2
+106,6/24/2015,6/26/2015,HHS,oak,Ae.,triseriatus sl,female,yes,,no,2
+107,6/24/2015,6/26/2015,HHS,oak,Ae.,triseriatus sl,female,yes,,no,2
+108,6/24/2015,6/26/2015,HHS,oak,Cx.,restuans,female,yes,,no,2
+109,6/24/2015,6/26/2015,dev.cent.,grass,Cx.,territans,female,yes,,no,2
+110,6/24/2015,6/26/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+111,6/24/2015,6/26/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+112,6/24/2015,6/26/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+113,6/24/2015,6/26/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+114,6/24/2015,6/26/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+115,6/24/2015,6/26/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+116,6/24/2015,6/26/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+117,6/24/2015,6/26/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+118,6/24/2015,6/26/2015,dev.cent.,oak,Cx.,restuans,female,yes,,no,2
+119,6/24/2015,6/26/2015,dev.cent.,oak,Cx.,restuans,female,no,,no,2
+120,6/24/2015,6/26/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+121,6/24/2015,6/26/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+122,6/24/2015,6/26/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+123,6/24/2015,6/26/2015,HHS,grass,Ae.,japonicus,female,no,,no,2
+124,6/24/2015,6/26/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+125,6/24/2015,6/26/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+126,6/24/2015,6/26/2015,HHS,grass,Cx.,territans,female,yes,,no,2
+127,6/24/2015,6/26/2015,Church,oak,Cx.,restuans,female,yes,,no,2
+128,6/24/2015,6/26/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+129,6/24/2015,6/26/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+130,6/24/2015,6/26/2015,Church,oak,Ae.,japonicus,female,no,,no,2
+131,6/24/2015,6/26/2015,Church,oak,Ae.,japonicus,female,no,,no,2
+132,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+133,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+134,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+135,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+136,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+137,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+138,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+139,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+140,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+141,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+142,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+143,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+144,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+145,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+146,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+147,6/24/2015,6/26/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+148,6/24/2015,6/26/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+149,6/24/2015,6/26/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+150,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+151,6/24/2015,6/26/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+152,6/24/2015,6/26/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+153,6/24/2015,6/26/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+154,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+155,6/24/2015,6/26/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+156,6/24/2015,6/26/2015,Church,grass,Ae.,albopictus,female,no,,no,2
+157,6/29/2015,7/1/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+158,6/29/2015,7/1/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+159,6/29/2015,7/1/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+160,6/29/2015,7/1/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+161,6/29/2015,7/1/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+162,6/29/2015,7/1/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+163,6/29/2015,7/1/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+164,6/29/2015,7/1/2015,HHS,oak,Ae.,triseriatus sl,female,yes,,no,2
+165,6/29/2015,7/1/2015,HHS,oak,Ae.,triseriatus sl,female,yes,,no,2
+166,6/29/2015,7/1/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+167,6/29/2015,7/1/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+168,6/29/2015,7/1/2015,HHS,grass,Ae.,triseriatus sl,female,no,,no,2
+169,6/29/2015,7/1/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+170,6/29/2015,7/1/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+171,6/29/2015,7/1/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+172,6/29/2015,7/1/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+173,6/29/2015,7/1/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+174,6/29/2015,7/1/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+175,6/29/2015,7/1/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+176,6/29/2015,7/1/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+177,6/29/2015,7/1/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+178,6/29/2015,7/1/2015,HHS,grass,Cx.,restuans,female,yes,,no,2
+179,6/29/2015,7/1/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+180,6/29/2015,7/1/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+181,6/29/2015,7/1/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+182,6/29/2015,7/1/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+183,6/29/2015,7/1/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+184,6/29/2015,7/1/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+185,6/29/2015,7/1/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+186,6/29/2015,7/1/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+187,6/29/2015,7/1/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+188,6/29/2015,7/1/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+189,6/29/2015,7/1/2015,Church,grass,Cx.,restuans,female,yes,,no,2
+190,6/29/2015,7/1/2015,Church,grass,Cx.,restuans,female,yes,,no,2
+191,6/29/2015,7/1/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+192,6/29/2015,7/1/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+193,6/29/2015,7/1/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+194,6/29/2015,7/1/2015,Church,grass,Cx.,restuans,female,yes,,no,2
+195,6/29/2015,7/1/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+196,6/29/2015,7/1/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+197,6/29/2015,7/1/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+198,6/29/2015,7/1/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+199,6/29/2015,7/1/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+200,6/29/2015,7/1/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+201,6/29/2015,7/1/2015,Church,grass,Cx.,restuans,female,yes,,no,2
+202,6/29/2015,7/1/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+203,6/29/2015,7/1/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+204,6/29/2015,7/1/2015,dev.cent.,oak,Ae.,japonicus,female,no,,no,2
+205,6/29/2015,7/1/2015,dev.cent.,oak,Ae.,japonicus,female,no,,no,2
+206,6/29/2015,7/1/2015,dev.cent.,oak,Cx.,territans,female,no,,no,2
+207,6/29/2015,7/1/2015,dev.cent.,grass,Cx.,restuans,female,yes,,no,2
+208,6/29/2015,7/1/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+209,6/29/2015,7/1/2015,dev.cent.,grass,Cx.,restuans,female,yes,,no,2
+210,6/29/2015,7/1/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+211,6/29/2015,7/1/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+212,6/29/2015,7/1/2015,dev.cent.,grass,Ae.,triseriatus sl,female,no,,no,2
+213,7/1/2015,7/3/2015,HHS,oak,Ae.,japonicus,female,no,,no,2
+214,7/1/2015,7/3/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+215,7/1/2015,7/3/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+216,7/1/2015,7/3/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+217,7/1/2015,7/3/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+218,7/1/2015,7/3/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+219,7/1/2015,7/3/2015,HHS,oak,Ae.,japonicus,female,no,,no,2
+220,7/1/2015,7/3/2015,HHS,oak,Ae.,japonicus,female,no,,no,2
+221,7/1/2015,7/3/2015,HHS,oak,Ae.,japonicus,female,no,,no,2
+222,7/1/2015,7/3/2015,HHS,oak,Ae.,triseriatus sl,female,no,,no,2
+223,7/1/2015,7/3/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+224,7/1/2015,7/3/2015,HHS,oak,Ae.,triseriatus sl,female,no,,no,2
+225,7/1/2015,7/3/2015,HHS,grass,Ae.,japonicus,female,yes,,no,2
+226,7/1/2015,7/3/2015,HHS,grass,Ae.,japonicus,female,yes,,no,2
+227,7/1/2015,7/3/2015,HHS,grass,Ae.,japonicus,female,yes,,no,2
+228,7/1/2015,7/3/2015,HHS,grass,Ae.,japonicus,female,yes,,no,2
+229,7/1/2015,7/3/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+230,7/1/2015,7/3/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+231,7/1/2015,7/3/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+232,7/1/2015,7/3/2015,dev.cent.,oak,Ae.,japonicus,female,no,,no,2
+233,7/1/2015,7/3/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+234,7/1/2015,7/3/2015,dev.cent.,oak,Ae.,japonicus,female,no,,no,2
+235,7/1/2015,7/3/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+236,7/1/2015,7/3/2015,dev.cent.,oak,Cx.,restuans,female,yes,,no,2
+237,7/1/2015,7/3/2015,dev.cent.,oak,Cx.,territans,female,no,,no,2
+238,7/1/2015,7/3/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+239,7/1/2015,7/3/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+240,7/1/2015,7/3/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+241,7/1/2015,7/3/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+242,7/1/2015,7/3/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+243,7/1/2015,7/3/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+244,7/1/2015,7/3/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+245,7/1/2015,7/3/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+246,7/1/2015,7/3/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+247,7/1/2015,7/3/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+248,7/1/2015,7/3/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+249,7/1/2015,7/3/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+250,7/1/2015,7/3/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+251,7/1/2015,7/3/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+252,7/1/2015,7/3/2015,Church,oak,Ae.,japonicus,female,no,,no,2
+253,7/1/2015,7/3/2015,Church,oak,Ae.,triseriatus sl,female,yes,,no,2
+254,7/1/2015,7/3/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+255,7/1/2015,7/3/2015,dev.cent.,grass,Ae.,japonicus,female,no,,no,2
+256,7/6/2015,7/8/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+257,7/6/2015,7/8/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+258,7/6/2015,7/8/2015,HHS,oak,Ae.,triseriatus sl,female,yes,,no,2
+259,7/6/2015,7/8/2015,HHS,oak,Ae.,triseriatus sl,female,no,,no,2
+260,7/6/2015,7/8/2015,HHS,grass,Ae.,japonicus,female,yes,,no,2
+261,7/6/2015,7/8/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+262,7/6/2015,7/8/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+263,7/6/2015,7/8/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+264,7/6/2015,7/8/2015,dev.cent.,oak,Ae.,triseriatus sl,male,no,,no,2
+265,7/6/2015,7/8/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+266,7/6/2015,7/8/2015,dev.cent.,grass,Ae.,japonicus,female,yes,,no,2
+267,7/6/2015,7/8/2015,dev.cent.,grass,Ae.,japonicus,female,no,,no,2
+268,7/6/2015,7/8/2015,dev.cent.,grass,Ae.,albopictus,female,yes,,no,2
+269,7/6/2015,7/8/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+270,7/6/2015,7/8/2015,Church,oak,Ae.,triseriatus sl,female,yes,,no,2
+271,7/6/2015,7/8/2015,Church,oak,Ae.,triseriatus sl,female,yes,,no,2
+272,7/6/2015,7/8/2015,Church,oak,Cx.,restuans,female,yes,,no,2
+273,7/6/2015,7/8/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+274,7/6/2015,7/8/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+275,7/6/2015,7/8/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+276,7/6/2015,7/8/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+277,7/6/2015,7/8/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+278,7/6/2015,7/8/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+279,7/6/2015,7/8/2015,Church,grass,Ae.,atropalpus,female,no,,no,2
+280,7/6/2015,7/8/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+281,7/6/2015,7/8/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+282,7/6/2015,7/8/2015,Church,grass,Ae.,triseriatus sl,female,no,,no,2
+283,7/6/2015,7/8/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+284,7/6/2015,7/8/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+285,7/6/2015,7/8/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+286,7/6/2015,7/8/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+287,7/6/2015,7/8/2015,Church,grass,Ae.,albopictus,female,no,,no,2
+288,7/8/2015,7/10/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+289,7/8/2015,7/10/2015,Church,oak,Ae.,japonicus,female,no,,no,2
+290,7/8/2015,7/10/2015,Church,oak,Ae.,triseriatus sl,female,no,,no,2
+291,7/8/2015,7/10/2015,Church,oak,Ae.,triseriatus sl,female,no,,no,2
+292,7/8/2015,7/10/2015,Church,grass,Ae.,triseriatus sl,female,no,,no,2
+293,7/8/2015,7/10/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+294,7/8/2015,7/10/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+295,7/8/2015,7/10/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+296,7/8/2015,7/10/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+297,7/8/2015,7/10/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+298,7/8/2015,7/10/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+299,7/8/2015,7/10/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+300,7/8/2015,7/10/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+301,7/8/2015,7/10/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+302,7/8/2015,7/10/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+303,7/8/2015,7/10/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+304,7/8/2015,7/10/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+305,7/8/2015,7/10/2015,Church,grass,Ae.,atropalpus,female,no,,no,2
+306,7/8/2015,7/10/2015,dev.cent.,grass,Ae.,japonicus,female,no,,no,2
+307,7/8/2015,7/10/2015,dev.cent.,grass,Ae.,japonicus,female,yes,,no,2
+308,7/8/2015,7/10/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+309,7/8/2015,7/10/2015,dev.cent.,grass,Cx.,restuans,female,yes,,no,2
+310,7/8/2015,7/10/2015,dev.cent.,grass,Cx.,restuans,female,yes,,no,2
+311,7/8/2015,7/10/2015,dev.cent.,oak,Cx.,restuans,female,yes,,no,2
+312,7/8/2015,7/10/2015,dev.cent.,oak,Ae.,japonicus,female,no,,no,2
+313,7/8/2015,7/10/2015,dev.cent.,oak,Ae.,japonicus,female,no,,no,2
+314,7/8/2015,7/10/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+315,7/8/2015,7/10/2015,dev.cent.,oak,Ae.,japonicus,female,no,,no,2
+316,7/8/2015,7/10/2015,dev.cent.,oak,Ae.,japonicus,female,no,,no,2
+317,7/8/2015,7/10/2015,dev.cent.,oak,Ae.,triseriatus sl,female,yes,,no,2
+318,7/8/2015,7/10/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+319,7/8/2015,7/10/2015,HHS,grass,Ae.,japonicus,female,yes,,no,2
+320,7/8/2015,7/10/2015,HHS,grass,Ae.,japonicus,female,no,,no,2
+321,7/8/2015,7/10/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+322,7/13/2015,7/15/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+323,7/13/2015,7/15/2015,dev.cent.,oak,Cx.,restuans,female,yes,,no,2
+324,7/13/2015,7/15/2015,dev.cent.,oak,Cx.,restuans,female,yes,,no,2
+325,7/13/2015,7/15/2015,dev.cent.,grass,Cx.,restuans,female,no,,no,2
+326,7/13/2015,7/15/2015,dev.cent.,grass,Ae.,japonicus,female,no,,no,2
+327,7/13/2015,7/15/2015,dev.cent.,grass,Cx.,restuans,female,yes,,no,2
+328,7/13/2015,7/15/2015,dev.cent.,grass,Cx.,territans,female,no,,no,2
+329,7/13/2015,7/15/2015,dev.cent.,grass,An.,Punctipennis,male,,,no,2
+330,7/13/2015,7/15/2015,HHS,grass,Cx.,restuans,female,yes,,no,2
+331,7/13/2015,7/15/2015,HHS,grass,Cx.,restuans,female,yes,,no,2
+332,7/13/2015,7/15/2015,HHS,grass,Cx.,territans,female,yes,,no,2
+333,7/13/2015,7/15/2015,HHS,grass,Cx.,restuans,female,yes,,no,2
+334,7/13/2015,7/15/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+335,7/13/2015,7/15/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+336,7/13/2015,7/15/2015,HHS,grass,Ae.,japonicus,female,yes,,no,2
+337,7/13/2015,7/15/2015,HHS,grass,Ae.,japonicus,female,yes,,no,2
+338,7/13/2015,7/15/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+339,7/13/2015,7/15/2015,HHS,oak,Ae.,triseriatus sl,female,no,,no,2
+340,7/13/2015,7/15/2015,HHS,oak,Ae.,triseriatus sl,female,yes,,no,2
+341,7/13/2015,7/15/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+342,7/13/2015,7/15/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+343,7/13/2015,7/15/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+344,7/13/2015,7/15/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+345,7/13/2015,7/15/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+346,7/13/2015,7/15/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+347,7/13/2015,7/15/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+348,7/13/2015,7/15/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+349,7/13/2015,7/15/2015,Church,oak,Ae.,triseriatus sl,female,yes,,no,2
+350,7/13/2015,7/15/2015,Church,oak,Cx.,restuans,female,yes,,no,2
+351,7/13/2015,7/15/2015,Church,oak,Ae.,japonicus,female,no,,no,2
+352,7/13/2015,7/15/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+353,7/13/2015,7/15/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+354,7/13/2015,7/15/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+355,7/13/2015,7/15/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+356,7/13/2015,7/15/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+357,7/13/2015,7/15/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+358,7/13/2015,7/15/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+359,7/13/2015,7/15/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+360,7/13/2015,7/15/2015,Church,oak,Ae.,triseriatus sl,female,yes,,no,2
+361,7/13/2015,7/15/2015,Church,oak,Ae.,japonicus,female,no,,no,2
+362,7/13/2015,7/15/2015,Church,oak,Ae.,triseriatus sl,female,yes,,no,2
+363,7/13/2015,7/15/2015,Church,oak,Cx.,restuans,female,yes,,no,2
+364,7/13/2015,7/15/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+365,7/13/2015,7/15/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+366,7/13/2015,7/15/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+367,7/13/2015,7/15/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+368,7/13/2015,7/15/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+369,7/13/2015,7/15/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+370,7/13/2015,7/15/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+371,7/13/2015,7/15/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+372,7/13/2015,7/15/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+373,7/13/2015,7/15/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+374,7/13/2015,7/15/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+375,7/13/2015,7/15/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+376,7/13/2015,7/15/2015,Church,grass,Cx.,restuans,female,yes,,no,2
+377,7/13/2015,7/15/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+378,7/13/2015,7/15/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+379,7/13/2015,7/15/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+380,7/13/2015,7/15/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+381,7/13/2015,7/15/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+382,7/13/2015,7/15/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+383,7/13/2015,7/15/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+384,7/13/2015,7/15/2015,Church,grass,Ae.,triseriatus sl,female,no,,no,2
+385,7/13/2015,7/15/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+386,7/13/2015,7/15/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+387,7/13/2015,7/15/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+388,7/15/2015,7/17/2015,HHS,grass,Ae.,japonicus,female,yes,,no,2
+389,7/15/2015,7/17/2015,HHS,grass,Ae.,japonicus,female,no,,no,2
+390,7/15/2015,7/17/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+391,7/15/2015,7/17/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+392,7/15/2015,7/17/2015,HHS,grass,Cx.,territans,female,yes,,no,2
+393,7/15/2015,7/17/2015,HHS,oak,Ae.,triseriatus sl,female,yes,,no,2
+394,7/15/2015,7/17/2015,HHS,oak,Ae.,triseriatus sl,female,no,,no,2
+395,7/15/2015,7/17/2015,HHS,oak,Cx.,restuans,female,yes,,no,2
+396,7/15/2015,7/17/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+397,7/15/2015,7/17/2015,dev.cent.,grass,Ae.,japonicus,female,yes,,no,2
+398,7/15/2015,7/17/2015,dev.cent.,grass,Ae.,japonicus,female,yes,,no,2
+399,7/15/2015,7/17/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+400,7/15/2015,7/17/2015,dev.cent.,oak,Ae.,japonicus,female,yes,,no,2
+401,7/15/2015,7/17/2015,dev.cent.,oak,Cx.,restuans,female,yes,,no,2
+402,7/15/2015,7/17/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+403,7/15/2015,7/17/2015,Church,oak,Ae.,triseriatus sl,female,yes,,no,2
+404,7/15/2015,7/17/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+405,7/15/2015,7/17/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+406,7/15/2015,7/17/2015,Church,oak,Ae.,triseriatus sl,female,yes,,no,2
+407,7/15/2015,7/17/2015,Church,oak,Ae.,japonicus,female,no,,no,2
+408,7/15/2015,7/17/2015,Church,oak,Ae.,triseriatus sl,female,yes,,no,2
+409,7/15/2015,7/17/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+410,7/15/2015,7/17/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+411,7/15/2015,7/17/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+412,7/15/2015,7/17/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+413,7/15/2015,7/17/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+414,7/15/2015,7/17/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+415,7/15/2015,7/17/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+416,7/15/2015,7/17/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+417,7/15/2015,7/17/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+418,7/15/2015,7/17/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+419,7/21/2015,7/23/2015,dev.cent.,oak,Cx.,restuans,female,yes,,no,2
+420,7/21/2015,7/23/2015,dev.cent.,oak,Cx.,territans,female,yes,,no,2
+421,7/21/2015,7/23/2015,dev.cent.,oak,Ae.,triseriatus sl,female,no,,no,2
+422,7/21/2015,7/23/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+423,7/21/2015,7/23/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+424,7/21/2015,7/23/2015,dev.cent.,grass,Ae.,japonicus,female,yes,,no,2
+425,7/21/2015,7/23/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+426,7/21/2015,7/23/2015,dev.cent.,grass,Ae.,japonicus,female,yes,,no,2
+427,7/21/2015,7/23/2015,dev.cent.,grass,Ae.,japonicus,female,yes,,no,2
+428,7/21/2015,7/23/2015,dev.cent.,grass,Ae.,triseriatus sl,female,yes,,no,2
+429,7/21/2015,7/23/2015,dev.cent.,grass,An.,barberi,male,no,,no,2
+430,7/21/2015,7/23/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+431,7/21/2015,7/23/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+432,7/21/2015,7/23/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+433,7/21/2015,7/23/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+434,7/21/2015,7/23/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+435,7/21/2015,7/23/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+436,7/21/2015,7/23/2015,Church,grass,Ae.,triseriatus sl,female,no,,no,2
+437,7/21/2015,7/23/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+438,7/21/2015,7/23/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+439,7/21/2015,7/23/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+440,7/21/2015,7/23/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+441,7/21/2015,7/23/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+442,7/21/2015,7/23/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+443,7/21/2015,7/23/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+444,7/21/2015,7/23/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+445,7/21/2015,7/23/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+446,7/21/2015,7/23/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+447,7/21/2015,7/23/2015,Church,oak,Ae.,japonicus,female,no,,no,2
+448,7/21/2015,7/23/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+449,7/21/2015,7/23/2015,Church,oak,Ae.,triseriatus sl,female,yes,,no,2
+450,7/21/2015,7/23/2015,Church,oak,Ae.,triseriatus sl,female,no,,no,2
+451,7/21/2015,7/23/2015,HHS,oak,Ae.,japonicus,female,no,,no,2
+452,7/21/2015,7/23/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+453,7/21/2015,7/23/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+454,7/21/2015,7/23/2015,HHS,grass,Ae.,japonicus,female,yes,,no,2
+455,7/21/2015,7/23/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+456,7/21/2015,7/23/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+457,7/21/2015,7/23/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+458,7/21/2015,7/23/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+459,7/23/2015,7/25/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+460,7/23/2015,7/25/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+461,7/23/2015,7/25/2015,Church,oak,Ae.,japonicus,female,yes,,no,2
+462,7/23/2015,7/25/2015,HHS,grass,Ae.,triseriatus sl,female,no,,no,2
+463,7/23/2015,7/25/2015,HHS,grass,Ae.,japonicus,female,yes,,no,2
+464,7/23/2015,7/25/2015,HHS,grass,Ae.,japonicus,female,yes,,no,2
+465,7/23/2015,7/25/2015,HHS,grass,Ae.,japonicus,female,yes,,no,2
+466,7/23/2015,7/25/2015,HHS,grass,Ae.,triseriatus sl,female,yes,,no,2
+467,7/23/2015,7/25/2015,HHS,grass,Ae.,triseriatus sl,female,no,,no,2
+468,7/23/2015,7/25/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+469,7/23/2015,7/25/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+470,7/23/2015,7/25/2015,Church,grass,Cx.,restuans,female,yes,,no,2
+471,7/23/2015,7/25/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+472,7/23/2015,7/25/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+473,7/23/2015,7/25/2015,Church,grass,Ae.,japonicus,female,yes,,no,2
+474,7/23/2015,7/25/2015,Church,grass,Ae.,japonicus,female,no,,no,2
+475,7/23/2015,7/25/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+476,7/23/2015,7/25/2015,Church,grass,Ae.,triseriatus sl,female,yes,,no,2
+477,7/23/2015,7/25/2015,dev.cent.,grass,Ae.,japonicus,female,yes,,no,2
+478,7/23/2015,7/25/2015,dev.cent.,oak,Ae.,triseriatus sl,female,yes,,no,2
+479,7/23/2015,7/25/2015,dev.cent.,oak,Ae.,japonicus,female,no,,no,2
+480,7/23/2015,7/25/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+481,7/23/2015,7/25/2015,HHS,oak,Ae.,triseriatus sl,female,no,,no,2
+482,7/23/2015,7/25/2015,HHS,oak,Ae.,triseriatus sl,female,yes,,no,2
+483,7/23/2015,7/25/2015,HHS,oak,Ae.,triseriatus sl,female,yes,,no,2
+484,7/23/2015,7/25/2015,HHS,oak,Ae.,japonicus,female,yes,,no,2
+485,7/23/2015,7/25/2015,HHS,oak,Ae.,triseriatus sl,female,yes,,no,2
