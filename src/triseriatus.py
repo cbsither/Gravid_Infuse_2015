@@ -50,13 +50,13 @@ print(f"lambda Grass: {lambda_estimate_grass1} , lambda Oak: {lambda_estimate_oa
 #### Poisson Rate Test
 print("Null Ratio = 1")
 stats_dict = {}
-s1, pv1 = poisson_twosample(triseriatus.oak_total, triseriatus.time_val, triseriatus.grass_total, triseriatus.time_val, method='wald', ratio_null=1, alternative='s')
+s1, pv1 = poisson_twosample(triseriatus.oak_total, triseriatus.time_val, triseriatus.grass_total, triseriatus.time_val, method='wald', ratio_null=1, alternative='l')
 stats_dict['wald'] = [s1, pv1, lambda_estimate_grass1, lambda_estimate_oak1]
 print('wald', s1, pv1, '\n')
-s1, pv1 = poisson_twosample(triseriatus.oak_total, triseriatus.time_val, triseriatus.grass_total, triseriatus.time_val, method='score', ratio_null=1, alternative='s')
+s1, pv1 = poisson_twosample(triseriatus.oak_total, triseriatus.time_val, triseriatus.grass_total, triseriatus.time_val, method='score', ratio_null=1, alternative='l')
 stats_dict['score'] = [s1, pv1, lambda_estimate_grass1, lambda_estimate_oak1]
 print('score', s1, pv1, '\n')
-s1, pv1 = poisson_twosample(triseriatus.oak_total, triseriatus.time_val, triseriatus.grass_total, triseriatus.time_val, method='sqrt', ratio_null=1, alternative='s')
+s1, pv1 = poisson_twosample(triseriatus.oak_total, triseriatus.time_val, triseriatus.grass_total, triseriatus.time_val, method='sqrt', ratio_null=1, alternative='l')
 stats_dict['sqrt'] = [s1, pv1, lambda_estimate_grass1, lambda_estimate_oak1]
 print('sqrt', s1, pv1, '\n')
 
