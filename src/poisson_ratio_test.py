@@ -1,6 +1,11 @@
 import numpy as np
 import scipy.stats as stats
 
+"""
+The following code is from: https://stackoverflow.com/questions/33944914/implementation-of-e-test-for-poisson-in-python
+
+These functions are implemented in the statsmodel package now but I'd rather not change the original analysis script
+"""
 
 def _zstat_generic2(value, std_diff, alternative):
     '''generic (normal) z-test to save typing
