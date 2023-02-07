@@ -22,7 +22,7 @@ plt.title("Aedes japonicus", style='italic')
 plt.xlabel('Sample Counts')
 plt.ylabel('Density')
 plt.legend()
-plt.savefig(f"../figs/japonicus/japonicus_poisson_histogram_emp_data_oak.png")
+plt.savefig(f"../figs/japonicus/japonicus_poisson_histogram_emp_data_oak_fig_a.png")
 plt.clf()
 
 plt.hist(japonicus.grass_by_date, bins=bins, color='blue', alpha=0.3, label=f'Grass Data', density=True)
@@ -32,7 +32,7 @@ plt.title("Aedes japonicus", style='italic')
 plt.xlabel('Sample Counts')
 plt.ylabel('Density')
 plt.legend()
-plt.savefig(f"../figs/japonicus/japonicus_poisson_histogram_emp_data_grass.png")
+plt.savefig(f"../figs/japonicus/japonicus_poisson_histogram_emp_data_grass_fig_b.png")
 plt.clf()
 
 
@@ -44,7 +44,7 @@ plt.title("Aedes japonicus", style='italic')
 plt.xlabel('Simulated Sample Counts')
 plt.ylabel('Density')
 plt.legend()
-plt.savefig(f"../figs/japonicus/japonicus_poisson_histogram.png")
+plt.savefig(f"../figs/japonicus/japonicus_poisson_histogram_fig_c.png")
 print(f"lambda Grass: {lambda_estimate_grass1} , lambda Oak: {lambda_estimate_oak1}")
 
 #### Poisson Rate Test
