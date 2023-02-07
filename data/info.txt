@@ -1,0 +1,22 @@
+Column information
+
+Vial_no. = specific tube vial a mosquito is stored in
+date set = the date a gravid trap was set
+date coll. = the date a gravid trap was collected
+location = the location a pair of gravid traps were colocated
+Infusion = the infusion type a mosquito was collected with
+genus = mosquito genus
+species = mosquito species
+sex = the sex of the collected mosquito
+gravid = whether the mosquito had retained eggs
+parity = whether the mosquito had laid eggs before based on analyzing the tracheal skenes
+bloodfed = whether a mosquito contained retained blood from a previous bloodmeal
+diff = the total number of days between the 'date set' and 'date coll.' columns
+
+Trap Locations (lat, lon):
+
+**Please note these are not exact locations, rather close to exact
+
+Church = 35.305408, -83.181235
+HHS = 35.305193, -83.204198
+dev. cent. = 35.311184, -83.191437
