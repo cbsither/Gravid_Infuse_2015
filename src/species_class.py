@@ -79,6 +79,6 @@ class Species:
         self.oak()
         self.grass()
         self.sites()
-        self.time_val = len(self.date_collection)
+        self.time_val = len(self.date_collection) * 3
 
 

@@ -13,7 +13,7 @@ emp_lambda_oak, emp_lambda_grass = np.sum(triseriatus.oak_data) / triseriatus.ti
 rate_1 = np.random.poisson(lambda_estimate_oak1, 1000000)
 rate_2 = np.random.poisson(lambda_estimate_grass1, 1000000)
 
-bins = np.arange(0, 40)
+bins = np.arange(0, 30)
 
 plt.hist(triseriatus.oak_by_date, bins=bins, color='blue', alpha=0.3, label=f'Oak Data (n={len(triseriatus.oak_data)})', density=True)
 plt.hist(rate_1, color='green', bins=bins, alpha=0.3, label=f'Simulated Oak Data, \u03BB={round(lambda_estimate_oak1, 2)}', density=True)

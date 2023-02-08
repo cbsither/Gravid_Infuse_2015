@@ -13,7 +13,7 @@ emp_lambda_oak, emp_lambda_grass = np.sum(restuans.oak_data) / restuans.time_val
 rate_1 = np.random.poisson(lambda_estimate_oak1, 1000000)
 rate_2 = np.random.poisson(lambda_estimate_grass1, 1000000)
 
-bins = np.arange(0, 40)
+bins = np.arange(0, 30)
 
 plt.hist(restuans.oak_by_date, bins=bins, color='blue', alpha=0.3, label=f'Oak Data (n={len(restuans.oak_data)})', density=True)
 plt.hist(rate_1, color='green', bins=bins, alpha=0.3, label=f'Simulated Oak Data, \u03BB={round(lambda_estimate_oak1, 2)}', density=True)
@@ -26,7 +26,7 @@ plt.savefig(f"../figs/restuans/restuans_poisson_histogram_emp_data_oak_fig_a.png
 plt.clf()
 
 plt.hist(restuans.grass_by_date, bins=bins, color='blue', alpha=0.3, label=f'Grass Data (n={len(restuans.grass_data)})', density=True)
-plt.hist(rate_2, color='blue', bins=bins, alpha=0.3, label=f'Simulated Grass Data, \u03BB={round(lambda_estimate_grass1, 2)}', density=True)
+plt.hist(rate_2, color='green', bins=bins, alpha=0.3, label=f'Simulated Grass Data, \u03BB={round(lambda_estimate_grass1, 2)}', density=True)
 plt.axvline(lambda_estimate_grass1, color='green', ymax=0.8)
 plt.title("Culex restuans", style='italic')
 plt.xlabel('Sample Counts')
