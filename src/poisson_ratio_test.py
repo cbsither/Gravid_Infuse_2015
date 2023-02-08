@@ -122,3 +122,54 @@ def poisson_twosample(count1, exposure1, count2, exposure2, ratio_null=1,
         return _zstat_generic2(stat, 1, alternative)
     else:
         return stat, pvalue
+
+
+def power_analysis(count1, exposure1, count2, exposure2,
+                   beta_, alpha_, ratio_null, ratio_null_exp, t_units, method='score'):
+    """
+    Power analysis from Gu, K., Ng, H. K. T., Tang, M. L., & Schucany, W. R. (2008). Testing the ratio of two poisson
+	rates. Biometrical Journal: Journal of Mathematical Methods in Biosciences, 50(2), 283-298.
+
+    :param count1: int
+        Number of events in first sample
+    :param exposure1: float
+        Total exposure (time * subjects) in first sample
+    :param count2: int
+        Number of events in first sample
+    :param exposure2: float
+        Total exposure (time * subjects) in first sample
+    :param ratio_null: the null hypothesis defined by the expected lambda ratios given no effect
+    :param _beta: type 2 error
+    :param _alpha: type I error
+    :param t0: first sample interval
+    :param t1: maximum sample interval
+    :return:
+    """
+    d = count1 / count2
+    z_beta = 1 - beta_
+    z_alpha = 1 - alpha_
+    rho = ratio_null / d
+    c_ = ratio_null / ratio_null_exp
+
+    if method in ['score']:
+        lambda_1 = (((c_ / rho) + c_**2)*((z_alpha + z_beta)**2)) / ((1 - c_)**2)
+    elif method in ['wald']:
+        lambda_1 = (((c_ / rho) + c_**2) *
+                    (z_alpha * np.sqrt((c_ + rho)/(1 + (c_ * rho))) + z_beta)**2) / ((1 - c_)**2)
+    elif method in ['sqrt']:
+        lambda_1 = (((c_ / rho) + 1)*((z_alpha + z_beta)**2)) / (np.log(c_)**2)
+    elif method in ['exact-cond']:
+        lambda_1 = (((c_ / rho) + 1) *
+                    (z_alpha * (np.sqrt(c_ * (rho**2 + 2*rho + 1)) / (c_ + rho)) + z_beta)**2) / (np.log(c_)**2)
+    elif method in ['cond-midp']:
+        lambda_1 = ((z_alpha*np.sqrt((c_/rho)+c_)+z_beta*np.sqrt(1 + (c_/rho))) / (2*(1-np.sqrt(c_))))**2 - (3/8)
+
+    #t_units = np.arange(1, 100)
+
+    exp_lambda_1 = lambda_1
+
+    lambda_1_est = count1 / exposure1
+    lambda_2_est = count2 / exposure2
+
+    return exp_lambda_1
+

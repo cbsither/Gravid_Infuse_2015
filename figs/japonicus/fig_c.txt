@@ -1,0 +1,4 @@
+Figure C: Simulated data drawn from a Poisson process (n=1 000 000) with the
+lambda value for the Poisson process derived from the oak leaf and grass infusion
+trap data. A one-way Poisson rate test determining whether two Poisson means are
+significantly different with a Wald

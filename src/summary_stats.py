@@ -68,7 +68,7 @@ def SummaryStatsTable():
 		sum_stats.write(',,Sum,Mean,Variance,Median,Mode,Range,Sum,Mean,Variance,Median,Mode,Range,Sum,Mean,Variance,Median,Mode,Range,Sum,Mean,Variance,Median,Mode,Range\n')
 		# Aedes trisieratus
 		hhs_oak , hhs_grass , dev_oak , dev_grass , church_oak , church_grass = Infusion_Comparison_By_Date_Species_Site( gravid_trap_data , 'triseriatus sl' )
-		sum_stats.write(f'Aedes triseriatus,Site Total,{sum(hhs_oak + hhs_grass)},{np.mean(hhs_oak + hhs_grass)},{np.var(hhs_oak + hhs_grass)},{np.median(hhs_oak + hhs_grass)},{int(stats.mode(hhs_oak + hhs_grass)[0])},{FindRange(hhs_oak + hhs_grass)}, \
+		sum_stats.write(f'Aedes triseriatus,Site Total,{sum(hhs_oak+hhs_grass)},{np.mean(hhs_oak+hhs_grass)},{np.var(hhs_oak+hhs_grass)},{np.median(hhs_oak + hhs_grass)},{int(stats.mode(hhs_oak + hhs_grass)[0])},{FindRange(hhs_oak + hhs_grass)}, \
 		{sum(church_oak + church_grass)},{np.mean(church_oak + church_grass)},{np.var(church_oak + church_grass)},{np.median(church_oak + church_grass)},{int(stats.mode(church_oak + church_grass)[0])},{FindRange(church_oak + church_grass)},\
 		{sum(dev_oak + dev_grass)},{np.mean(dev_oak + dev_grass)},{np.var(dev_oak + dev_grass)},{np.median(dev_oak + dev_grass)},{int(stats.mode(dev_oak + dev_grass)[0])},{FindRange(dev_oak + dev_grass)},\
 		{sum(hhs_oak + hhs_grass + dev_oak + dev_grass + church_oak + church_grass)},{np.mean(hhs_oak + hhs_grass + dev_oak + dev_grass + church_oak + church_grass)},{np.var(hhs_oak + hhs_grass + dev_oak + dev_grass + church_oak + church_grass)},\
