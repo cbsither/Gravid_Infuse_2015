@@ -37,7 +37,7 @@ plt.clf()
 
 
 plt.hist(rate_1, color='blue', alpha=0.3, bins=bins, label=f'Oak Infusion, \u03BB={round(lambda_estimate_oak1, 2)}', density=True)
-plt.hist(rate_2, color='green', alpha=0.3, bins=bins, label=f'Grass Infusion, \u03BB={round(lambda_estimate_grass1, 2)}', density=True)
+plt.hist(rate_2, color='green', alpha=0.3, bins=bins, label=f'Hay Infusion, \u03BB={round(lambda_estimate_grass1, 2)}', density=True)
 plt.axvline(lambda_estimate_oak1, color='blue', ymax=0.8)
 plt.axvline(lambda_estimate_grass1, color='green', ymax=0.8)
 plt.title("Aedes japonicus", style='italic')
